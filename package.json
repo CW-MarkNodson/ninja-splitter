@@ -1,5 +1,5 @@
 {
-  "name": "ninja-split",
+  "name": "@tcg/ninja-split",
   "version": "16.0.0",
   "scripts": {
     "ng": "ng",
