@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Splitter component for Angular 9+
+Splitter component for Angular 16+
 
 
 Inspired by https://github.com/wannabegeek/ng2-split-pane. (Can be used up to Angular 8)
